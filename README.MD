@@ -57,8 +57,8 @@ My professional journey is rooted in three long-term pillars: **Technology**, **
 
 I provide end-to-end freelance services for individuals, startups, and businesses:
 
-<img align="right" width="400px" height="auto" src="./assets/images/websites.jpg">
-<img align="right" width="400px" height="auto" src="./assets/images/websites.jpg">
+<img align="right" width="300px" height="auto" margin-bottom="10px" src="./assets/images/websites.jpg">
+<img align="right" width="300px" height="auto" src="./assets/images/websites.jpg">
 
 ### Web Development
 
