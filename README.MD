@@ -57,7 +57,10 @@ My professional journey is rooted in three long-term pillars: **Technology**, **
 
 I provide end-to-end freelance services for individuals, startups, and businesses:
 
-### Web Development <img align="right" width="300px" height="auto" src="./assets/images/websites.jpg" style="margin-bottom: 10px">
+<img align="right" width="300px" height="auto" src="./assets/images/websites.jpg" style="margin-bottom: 10px">
+<img align="right" width="300px" height="auto" src="./assets/images/websites.jpg">
+
+### Web Development
 
 - Full-stack MERN development
 - Next.js & React-based frontend
@@ -70,7 +73,7 @@ I provide end-to-end freelance services for individuals, startups, and businesse
 - Process automation tools
 - Digital presence and branding development
 
-### Education & Mentorship <img align="right" width="300px" height="auto" src="./assets/images/websites.jpg">
+### Education & Mentorship
 
 - Beginner-friendly programming courses
 - Private coding mentorship
