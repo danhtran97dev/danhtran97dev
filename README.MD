@@ -1,8 +1,6 @@
-![Banner](./assets/images/banner.jpg)
+<img align="center" width="100%" height="auto" src="./assets/images/banner.jpg">
 
-# Danh Dev - Passionate Web Developer, Frontend Trainer
-
-<img align="left" width="100px" height="auto" src="./assets/images/avatar.png">
+# Danh Dev - Passionate Web Developer, Frontend Trainer <img align="left" width="100px" height="auto" src="./assets/images/avatar.png">
 
 I am a **Full-stack Web Developer** specializing in the **MERN** and **Next.js ecosystem**.
 
@@ -59,7 +57,8 @@ My professional journey is rooted in three long-term pillars: **Technology**, **
 
 I provide end-to-end freelance services for individuals, startups, and businesses:
 
-<img align="right" width="auto" height="200px" src="./assets/images/websites.jpg">
+<img align="right" width="400px" height="auto" src="./assets/images/websites.jpg">
+<img align="right" width="400px" height="auto" src="./assets/images/websites.jpg">
 
 ### Web Development
 
@@ -155,4 +154,3 @@ I aim to support new developers in understanding not just “how to code” but 
 - **Email**: [danhtran97.dev@gmail.com](mailto:danhtran97.dev@gmail.com)
 - **LinkedIn**: https://www.linkedin.com/in/danhtran97dev
 - **Website / Portfolio**: https://danhtran97.dev
-
