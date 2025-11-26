@@ -135,21 +135,6 @@ I aim to support new developers in understanding not just “how to code” but 
 – Strong background in technical consulting and solution-oriented development.
 – Teaching programming fundamentals and mentoring new developers.
 
-## Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danhtran97dev&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danhtran97dev&layout=compact&theme=default&hide_border=true)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danhtran97dev&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhtran97dev&layout=compact&theme=default" height="150" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danhtran97dev&theme=default" />
-</p>
-
 ## Fun Facts
 
 – I enjoy modeling ideas as systems — breaking complex concepts into clear, logical components.
